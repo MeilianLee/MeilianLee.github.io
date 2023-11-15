@@ -26,7 +26,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the water-food-en
 - Water resource management
 - Spatial Optimization
 - Reinforcement learning
----
+
 
 # 🔥 News
 - *2023.03.09*: &nbsp;🎉 Pass PhD Comprehensive Qualifying Examination.
