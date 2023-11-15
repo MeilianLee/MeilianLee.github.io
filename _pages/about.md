@@ -21,8 +21,7 @@ This is Meilian, a Ph.D. student at National University of Singapore working to 
 
 My Ph.D. research focuses on adaptive spatial optimization for the water-food-energy nexus, especially under climate change, through some advanced methods such as reinforcement learning and deep learning. The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
 
-<span class='anchor' id='-research-interests'></span>
-# 🤩 Research Interests
+### 🤩 Research Interests
 - Water-Food-Energy Nexus
 - Water resource management
 - Spatial Optimization
