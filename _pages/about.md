@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Meilian, a Ph.D. student at the National University of Singapore working to develop adaptive strategies for sustainability. I work at the intersection of Engineering, Economics, Artificial Intelligence, Environmental Policy, and Data Science.
+This is Meilian, a Ph.D. student at National University of Singapore working to develop adaptive strategies for sustainability. I work at the intersection of Engineering, Economics, Artificial Intelligence, Environmental Policy, and Data Science.
 
 My Ph.D. research focuses on adaptive spatial optimization for the water-food-energy nexus, especially under climate change, through some advanced methods such as reinforcement learning and deep learning. The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
 
@@ -42,6 +42,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the water-food-en
 <div class='paper-box-text' markdown="1">
 
 Managed aquifer recharge: Mitigating the dual pressure of water and land through multi-benefit spatial optimization (in preparation)
+
 **Meilian Li**, Xiaogang He
 
 **Project**
