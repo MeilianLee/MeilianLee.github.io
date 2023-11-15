@@ -58,7 +58,7 @@ Managed aquifer recharge: Mitigating the dual pressure of water and land through
 - *2021* Tianjin Innovation and Entrepreneurship Scholarship.
 - *2021* Student Science and Technology Talents Award.
 - *2019* Tianjin People's Government Scholarship (Top 1%).
-- 
+
 <span class='anchor' id='-conferences'></span>
 # 🙋🏻‍♀️ Conferences
 - 🚀 coming soon...
