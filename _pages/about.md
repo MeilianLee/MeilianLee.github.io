@@ -23,8 +23,11 @@ My Ph.D. research focuses on adaptive spatial optimization for the water-food-en
 
 # 🤩 Research Interest
 - Water-Food-Energy Nexus
+- Water resource management
 - Spatial Optimization
 - Reinforcement learning
+</div>
+</div>
 
 # 🔥 News
 - *2023.03.09*: &nbsp;🎉 Pass PhD Comprehensive Qualifying Examination.
@@ -35,16 +38,17 @@ My Ph.D. research focuses on adaptive spatial optimization for the water-food-en
 - *2018.09 - 2022.07*, Bachelor of Science, Tianjin University, Tianjin.  
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/farmland.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## ✍🏼Working Manuscript
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="3">
 
 Managed aquifer recharge: Mitigating the dual pressure of water and land through multi-benefit spatial optimization (in preparation)
 
 **Meilian Li**, Xiaogang He
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This model is released in Github: . 
+[**Project**]
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This model is released in Github: 
 </div>
 </div>
 
