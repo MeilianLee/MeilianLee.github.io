@@ -39,7 +39,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the [water-food-e
 
 ## 🌟 Visit the [website](https://meilianlee.github.io/phd-proj-web/) for my Ph.D. projects
 
-## ✍🏼Working Manuscript
+## ✍🏼 Working Manuscript
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
