@@ -37,7 +37,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the [water-food-e
 
 # 📝 Publications 
 
-### 🌟 Visit the [website](https://meilianlee.github.io/phd-proj-web/) for my Ph.D. projects
+## 🌟 Visit the [website](https://meilianlee.github.io/phd-proj-web/) for my Ph.D. projects
 
 ## ✍🏼Working Manuscript
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="100%"></div></div>
@@ -53,6 +53,10 @@ Managed aquifer recharge: Mitigating the dual pressure of water and land through
 </div>
 </div>
 
+<span class='anchor' id='-conferences'></span>
+# 🙋🏻‍♀️ Conferences
+- 🚀 coming soon...
+
 # 🎖 Honors and Awards
 - *2021* National "Bao Gang" Education Fund Scholarship.
 - *2021* The 16th "Challenge Cup" National College Students’ Extracurricular Academic Science and Technology Contest - Grand Prize.
@@ -64,7 +68,3 @@ Managed aquifer recharge: Mitigating the dual pressure of water and land through
 - *2019* Tianjin Municipal People's Government Scholarship.
 - *2019* The 2nd National College Student Sports Industry Innovation and Entrepreneurship Competition - Second Prize.
 - *2019* The 15th Tianjin Women's Entrepreneurship and Innovation Competition - Winning Prize.
-
-<span class='anchor' id='-conferences'></span>
-# 🙋🏻‍♀️ Conferences
-- 🚀 coming soon...
