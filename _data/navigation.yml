@@ -12,8 +12,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Conferences"
+    url: "/#-conferences"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Conferences"
-    url: "/#-conferences"
