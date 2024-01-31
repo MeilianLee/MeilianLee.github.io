@@ -45,7 +45,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-E
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Managed aquifer recharge: Mitigating the dual pressure of water and land through multi-benefit spatial optimization (in preparation)
+Mitigating the dual pressure of water and land scarcity through multi-benefit spatial optimization (in preparation)
 
 **Meilian Li**, [Xiaogang He](http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html)
 
@@ -57,11 +57,12 @@ Managed aquifer recharge: Mitigating the dual pressure of water and land through
 
 <span class='anchor' id='-conferences'></span>
 # 🙋🏻‍♀️ Conferences
-- 🚀 coming soon...
+- *2024.06* AOGS
 
 # 🎖 Honors and Awards
 ### Postgraduate
 - *2024* Department Excellent TA (Teaching Assistant) Award.
+
 ### Undergraduate
 - *2021* National "Bao Gang" Education Fund Scholarship.
 - *2021* The 16th "Challenge Cup" National College Students’ Extracurricular Academic Science and Technology Contest - Grand Prize.
