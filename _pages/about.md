@@ -19,7 +19,7 @@ redirect_from:
 
 This is Meilian, a Ph.D. student at National University of Singapore working to develop adaptive land-use strategies for sustainability. I work at the intersection of Engineering, Economics, Artificial Intelligence, Environmental Policy, and Data Science.
 
-My Ph.D. research focuses on adaptive spatial optimization for the [water-food-energy-Ecosystems nexus](https://www.gwp.org/en/GWP-Mediterranean/WE-ACT/Programmes-per-theme/Water-Food-Energy-Nexus/), especially under climate change, through some advanced methods such as reinforcement learning and deep learning. The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
+My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-Energy-Ecosystems nexus](https://www.gwp.org/en/GWP-Mediterranean/WE-ACT/Programmes-per-theme/Water-Food-Energy-Nexus/), especially under climate change, through some advanced methods such as reinforcement learning and deep learning. The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
 
 ### 🤩 Research Interests
 - Water-Food-Energy Nexus
@@ -28,6 +28,8 @@ My Ph.D. research focuses on adaptive spatial optimization for the [water-food-e
 - Reinforcement learning
 
 # 🔥 News
+- *2024.01.31*: &nbsp;📍 Present my first PhD seminar.
+- *2024.01.22*: &nbsp;🎖️ Honored with the Department Excellent TA (Teaching Assistant) Award!
 - *2023.03.09*: &nbsp;🎉 Pass PhD Comprehensive Qualifying Examination.
 
 # 📖 Educations
@@ -58,6 +60,9 @@ Managed aquifer recharge: Mitigating the dual pressure of water and land through
 - 🚀 coming soon...
 
 # 🎖 Honors and Awards
+### Postgraduate
+- *2024* Department Excellent TA (Teaching Assistant) Award.
+### Undergraduate
 - *2021* National "Bao Gang" Education Fund Scholarship.
 - *2021* The 16th "Challenge Cup" National College Students’ Extracurricular Academic Science and Technology Contest - Grand Prize.
 - *2021* [China International College Students’ "Internet+" Innovation and Entrepreneurship Competition](https://www.pilcchina.org/home) - Silver Award.
