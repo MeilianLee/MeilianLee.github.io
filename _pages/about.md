@@ -19,15 +19,17 @@ redirect_from:
 
 This is Meilian, a Ph.D. student at National University of Singapore working to develop adaptive land-use strategies for sustainability. I work at the intersection of Engineering, Economics, Artificial Intelligence, Environmental Policy, and Data Science.
 
-My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-Energy-Ecosystems nexus](https://www.gwp.org/en/GWP-Mediterranean/WE-ACT/Programmes-per-theme/Water-Food-Energy-Nexus/), especially under climate change, through some advanced methods such as reinforcement learning and deep learning. The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
+My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-Energy-Ecosystems nexus](https://www.gwp.org/en/GWP-Mediterranean/WE-ACT/Programmes-per-theme/Water-Food-Energy-Nexus/), especially under climate change, through some advanced methods such as Deep Reinforcement Learning (DRL) and Large Language Models (LLM). The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
 
 ### 🤩 Research Interests
 - Water-Food-Energy Nexus
 - Water resource management
 - Spatial Optimization
 - Reinforcement learning
+- Large Language Models
 
 # 🔥 News
+- *2024.05.21*: &nbsp;🎉 Pass PhD Oral Qualifying Examination.
 - *2024.01.31*: &nbsp;📍 Present my first PhD seminar.
 - *2024.01.22*: &nbsp;🎖️ Honored with the Department Excellent TA (Teaching Assistant) Award!
 - *2023.03.09*: &nbsp;🎉 Pass PhD Comprehensive Qualifying Examination.
@@ -42,12 +44,12 @@ My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-E
 ## 🌟 Visit the [website](https://meilianlee.github.io/phd-proj-web/) for my Ph.D. projects
 
 ## ✍🏼 Working Manuscript
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mitigating the dual pressure of water and land scarcity through multi-benefit spatial optimization (in preparation)
 
-**Meilian Li**, [Xiaogang He](http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html)
+**Meilian Li** and [Xiaogang He](http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html)
 
 **Project**
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -57,7 +59,7 @@ Mitigating the dual pressure of water and land scarcity through multi-benefit sp
 
 <span class='anchor' id='-conferences'></span>
 # 🙋🏻‍♀️ Conferences
-- *2024.06* AOGS
+- *2024.06* Asia Oceania Geosciences Society (AOGS) Annual Meeting, in Pyeongchang, South Korea
 
 # 🎖 Honors and Awards
 ### Postgraduate
