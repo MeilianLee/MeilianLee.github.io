@@ -63,7 +63,7 @@ Mitigating the dual pressure of water and land scarcity through multi-benefit sp
 - *2024.06* Asia Oceania Geosciences Society (AOGS) Annual Meeting, in Pyeongchang, South Korea
 
 # 🎖 Honors and Awards
-### Postgraduate
+### Graduate
 - *2024* AOGS2024 Best Student Poster Award
 - *2024* Department Excellent TA (Teaching Assistant) Award.
 
