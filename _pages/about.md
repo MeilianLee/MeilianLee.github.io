@@ -64,7 +64,7 @@ Mitigating the dual pressure of water and land scarcity through multi-benefit sp
 
 # 🎖 Honors and Awards
 ### Graduate
-- *2024* AOGS2024 Best Student Poster Award
+- *2024* AOGS2024 Best Student Poster Award.
 - *2024* Department Excellent TA (Teaching Assistant) Award.
 
 ### Undergraduate
