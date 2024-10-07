@@ -29,7 +29,8 @@ My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-E
 - Large Language Models
 
 # 🔥 News
-- *2024.06.28*: &nbsp;🎖️ Best Student Poster Award in 21st Annual Meeting Asia Oceania Geosciences Society (AOGS)!
+- *2024.10.03*: &nbsp;🎖️ Outstanding Student Poster Award in the 25th Conference on Computational Methods in Water Resources (CMWR 2024)!
+- *2024.06.28*: &nbsp;🎖️ Best Student Poster Award in the 21st Annual Meeting Asia Oceania Geosciences Society (AOGS)!
 - *2024.05.21*: &nbsp;🎉 Pass PhD Oral Qualifying Examination.
 - *2024.01.31*: &nbsp;📍 Present my first PhD seminar.
 - *2024.01.22*: &nbsp;🎖️ Honored with the Department Excellent TA (Teaching Assistant) Award!
@@ -60,10 +61,12 @@ Mitigating the dual pressure of water and land scarcity through multi-benefit sp
 
 <span class='anchor' id='-conferences'></span>
 # 🙋🏻‍♀️ Conferences
-- *2024.06* Asia Oceania Geosciences Society (AOGS) Annual Meeting, in Pyeongchang, South Korea
+- *2024.10* 25th Conference on Computational Methods in Water Resources (CMWR 2024), in Tucson, Arizona, USA
+- *2024.06* 21st Asia Oceania Geosciences Society (AOGS) Annual Meeting, in Pyeongchang, South Korea
 
 # 🎖 Honors and Awards
 ### Graduate
+- *2024* CMWR2024 Outstanding Student Poster Award.
 - *2024* AOGS2024 Best Student Poster Award.
 - *2024* Department Excellent TA (Teaching Assistant) Award.
 
