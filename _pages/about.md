@@ -49,7 +49,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-E
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mitigating the dual pressure of water and land scarcity through multi-benefit spatial optimization (in preparation)
+Strategic land repurposing for aquifer recharge bolsters groundwater and agriculture sustainability (To be submitted)
 
 **Meilian Li** and [Xiaogang He](http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html)
 
@@ -61,6 +61,7 @@ Mitigating the dual pressure of water and land scarcity through multi-benefit sp
 
 <span class='anchor' id='-conferences'></span>
 # 🙋🏻‍♀️ Conferences
+- *2024.12* American Geophysical Union (AGU) Meeting, in Washington, D.C., USA
 - *2024.10* 25th Conference on Computational Methods in Water Resources (CMWR 2024), in Tucson, Arizona, USA
 - *2024.06* 21st Asia Oceania Geosciences Society (AOGS) Annual Meeting, in Pyeongchang, South Korea
 
