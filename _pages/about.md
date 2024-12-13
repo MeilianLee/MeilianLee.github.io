@@ -19,7 +19,7 @@ redirect_from:
 
 This is Meilian, a Ph.D. student at National University of Singapore working to develop adaptive land-use strategies for sustainability. I work at the intersection of Engineering, Economics, Artificial Intelligence, Environmental Policy, and Data Science.
 
-My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-Energy-Ecosystems nexus](https://www.gwp.org/en/GWP-Mediterranean/WE-ACT/Programmes-per-theme/Water-Food-Energy-Nexus/), especially under climate change, through some advanced methods such as Deep Reinforcement Learning (DRL) and Large Language Models (LLM). The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
+My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-Energy-Ecosystems nexus](https://www.gwp.org/en/GWP-Mediterranean/WE-ACT/Programmes-per-theme/Water-Food-Energy-Nexus/), especially under climate change, through some advanced methods such as Deep Reinforcement Learning (DRL) and Large Language Models (LLMs). The objective of my research is to inform when, where, and which action is the best to achieve multiple benefits across sectors and scales. 
 
 ### 🤩 Research Interests
 - Water-Food-Energy Nexus
@@ -56,6 +56,19 @@ Strategic land repurposing for aquifer recharge bolsters groundwater and agricul
 **Project**
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This model is released on Github: 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/farmland.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Spatial-temporal adaptive planning of managed aquifer recharge guided by deep reinforcement learning
+
+**Meilian Li** and [Xiaogang He](http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html)
+
+**Project**
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- [Project website](https://prep-next.github.io/STELLAR/)
 </div>
 </div>
 
