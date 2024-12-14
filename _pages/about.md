@@ -54,6 +54,7 @@ Strategic land repurposing for aquifer recharge bolsters groundwater and agricul
 **Meilian Li** and [Xiaogang He](http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html)
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/landscape.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
