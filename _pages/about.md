@@ -46,6 +46,7 @@ My Ph.D. research focuses on adaptive spatial optimization for the [Water-Food-E
 ## 🌟 Visit the [website](https://meilianlee.github.io/phd-proj-web/) for my Ph.D. projects
 
 ## ✍🏼 Working Manuscript
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/landscape.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Strategic land repurposing for aquifer recharge bolsters groundwater and agriculture sustainability (To be submitted)
